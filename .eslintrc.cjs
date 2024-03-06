@@ -17,6 +17,7 @@ module.exports = {
       'warn',
       { allowConstantExport: true },
     ],
+    'react/prop-types': 0,
     'indent': ['error', 2],
     'quotes': ["error", "single", { "allowTemplateLiterals": true }],
     'semi': ['error','always'],
